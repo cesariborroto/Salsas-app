@@ -1,0 +1,7 @@
+Best performing salsa (# jars sold)
+Worst performing salsa (# jars sold)
+Best performing salsa (highest $ amount)
+Worst performing salsa (lowest $ amount)
+The lowest price salsa
+The highest price salsa
+Try another file

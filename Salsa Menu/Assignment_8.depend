@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680755135 source:g:\my drive\isbela\c++ program\assignment_8\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+
