@@ -1,1 +1,2 @@
 # Salsas-app
+This is a C++ program that reads data from a file and performs some calculations to display a report of salsa sales. The program has several functions, including one to read and populate arrays with salsa type, price, number sold, and profit data from a file. It also has functions to display the file contents, display a menu and get user input, find the index of the salsa with the lowest price or highest profit or jars sold. The program outputs a report that shows the salsa types, prices, quantities sold, and profits.
